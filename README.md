@@ -7,7 +7,7 @@ This is part one of the first assignment where we were required to build a web d
 ## Getting Started
 
 Click on the following link to preview the completed assignment.  
-  https://bronzeowl.github.io/HW-Wireframe/
+  https://bronzeowl.github.io/hw-wireframe/
 
 ## Built With
 
